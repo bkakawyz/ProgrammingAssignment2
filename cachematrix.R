@@ -34,3 +34,5 @@ cacheSolve <- function(x, ...) {
   x$setinverse(inv)
   inv
 }
+git remote add origin https://github.com/bkakawyz/RProgrammingAssignment2.git
+git push -u origin master
